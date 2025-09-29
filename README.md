@@ -8,7 +8,7 @@ O objetivo é criar uma página web simples e responsiva utilizando apenas **HTM
 ## 📸 Preview do Projeto
 Um website estático que conta a história da criação do mascote Android, explorando conceitos básicos de estruturação de páginas, estilização e boas práticas em HTML5 e CSS3.
 
-🔗 Acesse o projeto online aqui: <a href="https://eduardodallaporta.github.io/projeto-website-android/" target="_blank" class="externo">Web site Android</a>
+🔗 Acesse o projeto online aqui: <a href="https://eduardodallaporta.github.io/projeto-website-android/" target="_blank" class="externo">https://eduardodallaporta.github.io/projeto-website-android/</a>
 
 ---
 
