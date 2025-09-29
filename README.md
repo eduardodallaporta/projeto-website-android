@@ -20,9 +20,9 @@ Um website estático que conta a história da criação do mascote Android, expl
 
 ## 📂 Estrutura do Projeto
     desafio_android/
- - imagens/ # Pasta com imagens utilizadas no site
- - index.html # Página principal
- - style.css # Arquivo de estilos
+| - imagens/ # Pasta com imagens utilizadas no site
+| - index.html # Página principal
+| - style.css # Arquivo de estilos
 
 ---
 
